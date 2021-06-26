@@ -11,6 +11,7 @@
   margin: auto;
   border: 1px solid var(--black-o);
   min-height: 200px;
+  line-height: 0%;
 }
 
 .imhbl .imhbl-tit {
@@ -117,6 +118,7 @@
   font-size: 25px;
   font-weight: 700;
   letter-spacing: -1px;
+  line-height: 100%;
 }
 
 .imhbl-pjs .pj-dat {
